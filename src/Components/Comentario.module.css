@@ -54,12 +54,12 @@
 }
 
 .commentBox footer {
-    margin-top: 1rem;
+    margin-top: 1rem;   
 }
 .commentBox footer button{
     background: transparent;
     border: 0;
-    color: var(--gray-400);
+    color: var(--gray-400);    
     cursor: pointer;
     display: flex;
     align-items: center;    
